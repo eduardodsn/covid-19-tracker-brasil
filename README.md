@@ -34,3 +34,5 @@ Um programa em python para acompanhar os dados mais recentes do coronavírus no 
 #### 2. Rode o programa:
 - No terminal: `python main.py`
 ---  
+
+![Dashboard image](image/image1.png)
