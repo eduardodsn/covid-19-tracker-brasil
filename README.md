@@ -36,3 +36,4 @@ Um programa em python para acompanhar os dados mais recentes do coronavírus no 
 ---  
 
 ![Dashboard image](image/image.png)
+![Dashboard image](image/image1.png)
