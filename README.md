@@ -35,4 +35,4 @@ Um programa em python para acompanhar os dados mais recentes do coronavírus no 
 - No terminal: `python main.py`
 ---  
 
-![Dashboard image](image/image1.png)
+![Dashboard image](image/image.png)
